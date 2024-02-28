@@ -116,7 +116,7 @@ DATABASE_URL=mongodb_uri
 
 `BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
   
-`OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
+`@Kohli180` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
 
 `OWNER_ID` : Your Telegram User ID
 
